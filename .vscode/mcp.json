@@ -1,0 +1,12 @@
+{
+    "servers": {
+        "encore-mcp": {
+            "args": [
+                "mcp",
+                "run",
+                "--app=hello-encore-api-1-dq7i"
+            ],
+            "command": "encore"
+        }
+    }
+}
